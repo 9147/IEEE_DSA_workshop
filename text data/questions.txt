@@ -1,0 +1,5 @@
+questions:
+adding two sorted arrays
+reverse a stack
+adding two sorted linked list
+Reversing a linked list
